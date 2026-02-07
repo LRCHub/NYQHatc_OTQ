@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "風を止めないで",
+  "base_artist": "リュベンス",
+  "createdAt": "2026-02-07T17:28:55.582550Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風を止めないで",
+      "artist": "リュベンス",
+      "has_synced": false,
+      "path": "select/pl_01_風を止めないで_リュベンス.txt"
+    }
+  ]
+}
